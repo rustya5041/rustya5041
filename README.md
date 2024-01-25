@@ -25,16 +25,15 @@ I'm a 24-year-old Data Engineer at Procter & Gamble. I'm also a second-year Mast
 <br>
 <br>
 
+## Leetcode stats 🩹
 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=rustya5041&theme=dark&hide_border=false" width = 500>
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=rustya5041&theme=dark" width = 500>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/rustya?theme=nord&ext=activity)](https://leetcode.com/rustya)
 
-<img src = "https://github-readme-stats.vercel.app/api?username=rustya5041&show_icons=true&theme=dracula" width = 500>
+## GitHub stats 📍
+![Rustam's GitHub stats](https://github-readme-stats.vercel.app/api?username=rustya5041&show_icons=true&theme=transparent&include_all_commits=true&hide_rank=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustya5041&theme=dracula)](https://github.com/rustya5041/github-readme-stats)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rustya5041&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=385)
 ---
 
-Credit: [rustya5041](https://github.com/rustya5041)
+[![](https://visitcount.itsvg.in/api?id=rustya5041&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-Last Edited on: 25/01/2024
