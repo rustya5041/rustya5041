@@ -27,7 +27,7 @@ I'm a 24-year-old Data Engineer at Procter & Gamble. I'm also a second-year Mast
 
 ## Leetcode stats 🩹
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/rustya?theme=nord&ext=activity)](https://leetcode.com/rustya)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/rustya?theme=nord&ext=heatmap)](https://leetcode.com/rustya)
 
 ## GitHub stats 📍
 ![Rustam's GitHub stats](https://github-readme-stats.vercel.app/api?username=rustya5041&show_icons=true&theme=transparent&include_all_commits=true&hide_rank=true)
