@@ -11,6 +11,8 @@
 - 🕸️ I’m currently working on **Football Pass Networks as *graph representations***
 - ➕ I’m currently **learning *C++* language**
 - 📆 I’m actively **solving *Leetcode* problems.**
+- 🏎️ I'm an avid Formula 1 fan
+- ⚽ I also play Sunday League football :)
 
 
 ## Stack
