@@ -1,18 +1,17 @@
-<h1 align='center'>Hey there, I'm <a  href="https://github.com/rustya5041/" target='_blank'>Rustam </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align='center' <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Sans+Mono&size=30&duration=4000&pause=700&color=2D55B6&background=27E8FF00&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Rustam+Magomedov;Welcome+to+my+GitHub+%3A)" alt="Typing SVG" /></a> </h1>
 <h3 align="center">I'm a 24-year-old Data Engineer at <a href='https://www.pgcareers.com/global/en' target='_blank' rel='noreferer'> Procter & Gamble</a>. </br> I'm also a second-year Data Science Master's student at <a href='https://www.hse.ru/en/ma/mds/' target='_blank'> Higher School of Economics</a>.</h3>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/rustam-magomedov-de/" target="_blank"> <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt="linkedin"/> </a> 
   <a href="https://www.instagram.com/byrustya" target="_blank"> <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt="instagram"/> </a> 
   <a href="mailto:rsmagomedov99@gmail.com" target="_blank"> <img src='https://img.shields.io/badge/GMAIL-30302f?style=for-the-badge&logo=Gmail&logoColor=red' alt="gmail"/> </a> 
-
 </p>
 
-- 🕸️ I’m currently working on **Football Pass Networks as *graph representations***
-- ➕ I’m currently **learning *C++* language**
-- 📆 I’m actively **solving *Leetcode* problems.**
-- 🏎️ I'm an avid Formula 1 fan
-- ⚽ I also play Sunday League football :)
+
+- I’m currently writing a thesis on using supervised ML to predict football matches
+- I’m like solving Leetcode problems
+- I'm an avid Formula 1 fan
+- I also play Sunday League football :)
 
 
 ## Stack
@@ -42,14 +41,16 @@
 </p>
 -->
 
-## Leetcode stats ❤️‍🔥
+## Leetcode stats
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/rustya?theme=nord&ext=heatmap)](https://leetcode.com/rustya)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/rustya?theme=nord)](https://leetcode.com/rustya)
 
-## GitHub stats 📍
-![Rustam's GitHub stats](https://github-readme-stats.vercel.app/api?username=rustya5041&show_icons=true&theme=transparent&include_all_commits=true&hide_rank=true)
+## GitHub stats
+<a href="#">
+    <img alt="strak-stats" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=rustya5041&hide_border=true&theme=tokyonight" /> 
+    <img alt="toplangs-stats" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rustya5041&layout=compact&hide_border=true&theme=tokyonight" />    
+</a>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rustya5041&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=385)
 ---
 
 <!--
