@@ -9,7 +9,7 @@
 
 
 - I’m currently writing a thesis on using supervised ML to predict football matches
-- I’m like solving Leetcode problems
+- I solve Leetcode problems from time to time
 - I'm an avid Formula 1 fan
 - I also play Sunday League football :)
 
