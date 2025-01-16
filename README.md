@@ -1,5 +1,5 @@
 <h1 align='center' <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Sans+Mono&size=30&duration=4000&pause=700&color=2D55B6&background=27E8FF00&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Rustam+Magomedov;Welcome+to+my+GitHub+%3A)" alt="Typing SVG" /></a> </h1>
-<h3 align="center">I'm a 25-year-old Senior Data Engineer at <a href='https://www.pgcareers.com/global/en' target='_blank' rel='noreferer'> Procter & Gamble</a>. </br> I'm also a second-year Data Science Master's student at <a href='https://www.hse.ru/en/ma/mds/' target='_blank'> Higher School of Economics</a>.</h3>
+<h3 align="center">I'm a Senior Data Engineer at <a href='https://www.pgcareers.com/global/en' target='_blank' rel='noreferer'> Procter & Gamble</a>. </br> I'm also an alumni of the M.Sc. in Data Science program at <a href='https://www.hse.ru/en/ma/mds/' target='_blank'> Higher School of Economics</a>.</h3>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/rustam-magomedov-de/" target="_blank"> <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt="linkedin"/> </a> 
@@ -8,10 +8,10 @@
 </p>
 
 
-- I’m currently writing a thesis on using supervised ML to predict football matches
-- I solve Leetcode problems from time to time
+- I wrote a thesis on applied usage of supervised ML to predict football matches
+- Sometimes I solve Leetcode problems...
 - I'm an avid Formula 1 fan
-- I also play Sunday League football :)
+- I play tennis, hike, snowboard, and play Sunday League football :)
 
 
 ## Stack
